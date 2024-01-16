@@ -1,6 +1,8 @@
 # Hi! Welcome to my README
 
-## up221-sonia
+## This is Sonia Garfinkel's repo for Winter Quarter 2024, UP221 
+
+### up221-sonia
 
 Hi, my name is **Sonia**. :wave: I am a _1st year MURP student_ concentrating in _transportation_. I recentely moved here from Washington, D.C. 
 
